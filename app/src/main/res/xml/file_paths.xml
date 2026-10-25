@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="user_media" path="user_media/" />
+    <files-path name="camera_captures" path="camera_captures/" />
+    <files-path name="stickers" path="stickers/" />
+    <files-path name="gallery_samples" path="gallery_samples/" />
+    <cache-path name="cache_media" path="." />
+</paths>

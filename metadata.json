@@ -1,0 +1,7 @@
+{
+  "name": "Kalbarq - كلبرق",
+  "description": "تطبيق مراسلة مشفر وسريع للمحادثات الفردية والجروبات وتحويل الصور لملصقات والتسجيل الصوتي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

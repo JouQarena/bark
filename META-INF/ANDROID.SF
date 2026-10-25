@@ -1,0 +1,258 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA1-Digest-Manifest: ztC1OvFdFGffTd9ySUbO7bbViyo=
+X-Android-APK-Signed: 2,3
+
+Name: .aistudio/artifacts/brain/c5c7d670-a90f-4e75-b6fa-aaea1dd7f364/.
+ tempmediaStorage/media_1792952816797_25effde5.jpg
+SHA1-Digest: Nv5i0MvNjZE6mFa2NLj61PMkm5k=
+
+Name: .aistudio/artifacts/brain/c5c7d670-a90f-4e75-b6fa-aaea1dd7f364/.
+ tempmediaStorage/media_1792952913355_89aba963.png
+SHA1-Digest: qp/3hqrN2eVl0ZrQ6WdRtvoWeQ4=
+
+Name: .aistudio/artifacts/brain/c5c7d670-a90f-4e75-b6fa-aaea1dd7f364/.
+ tempmediaStorage/media_1792952954370_4266c132.png
+SHA1-Digest: z68nrOCr2ESAO3Gmbi4K7oc+mrc=
+
+Name: .aistudio/artifacts/brain/c5c7d670-a90f-4e75-b6fa-aaea1dd7f364/.
+ tempmediaStorage/media_1792952956686_3d47f92d.png
+SHA1-Digest: Mq07U8bujL8tJgN252FUZvmgX/8=
+
+Name: .aistudio/artifacts/brain/c5c7d670-a90f-4e75-b6fa-aaea1dd7f364/i
+ mplementation_plan.md
+SHA1-Digest: yzAiE6LgkR5G1GE4jIgLt6OVZzY=
+
+Name: .aistudio/artifacts/brain/c5c7d670-a90f-4e75-b6fa-aaea1dd7f364/i
+ mplementation_plan.md.metadata.json
+SHA1-Digest: I/rkCgf/wuWJTZAhhBduin9unPU=
+
+Name: .env.example
+SHA1-Digest: MPRRgvOjtFb5v1THASKxYbVhABA=
+
+Name: .gitignore
+SHA1-Digest: 7f8p8sQJaMySOLw+9vXv0SfEY10=
+
+Name: README.md
+SHA1-Digest: hwRmU1a1t1GrXmzZcKSxhI2icX0=
+
+Name: app/.gitignore
+SHA1-Digest: QDlZrxm9a8ASOA/bd15SPgrSWuI=
+
+Name: app/build.gradle.kts
+SHA1-Digest: PWRF2fqRTowoEd/8lV7SdEmkCkE=
+
+Name: app/proguard-rules.pro
+SHA1-Digest: ks6rn14Epoh1v1aHV0kId2gOqjk=
+
+Name: app/src/androidTest/java/com/example/ExampleInstrumentedTest.kt
+SHA1-Digest: 0bD1Z47qLqcJH+n+oZS5OdkWf8U=
+
+Name: app/src/main/AndroidManifest.xml
+SHA1-Digest: 9gAcd+wUM3N6Z9ZoL3nYQt3sM9E=
+
+Name: app/src/main/java/com/example/MainActivity.kt
+SHA1-Digest: ZNXk8sYUfT7nDXtS6wQ2BL0XLQ0=
+
+Name: app/src/main/java/com/example/data/local/ChatDao.kt
+SHA1-Digest: 6MOirW2/lsOXBKXzL4+8elyDzF8=
+
+Name: app/src/main/java/com/example/data/local/Converters.kt
+SHA1-Digest: CYrbhSPKQwYvmpglnm8pdhbresc=
+
+Name: app/src/main/java/com/example/data/local/Entities.kt
+SHA1-Digest: 3kCjkx0ZzHTf83H7eUA//9XOxgg=
+
+Name: app/src/main/java/com/example/data/local/SafirDatabase.kt
+SHA1-Digest: 1rwwZY06XaIe2sL/Ed+Hmaf+X/0=
+
+Name: app/src/main/java/com/example/data/model/Models.kt
+SHA1-Digest: uEvoML7EQOSiXopRksU2TUiE2aA=
+
+Name: app/src/main/java/com/example/data/repository/SafirRepository.kt
+SHA1-Digest: HXmmm8UqapxgxxcwP1jFDjVCnOc=
+
+Name: app/src/main/java/com/example/ui/MainApp.kt
+SHA1-Digest: 33mCdUSZtcZwE3Z8KmjXxIljbLs=
+
+Name: app/src/main/java/com/example/ui/components/AvatarView.kt
+SHA1-Digest: B7xFQMFFL3YCiJjIuKiIakvu+IQ=
+
+Name: app/src/main/java/com/example/ui/components/CameraAndGoldCompone
+ nts.kt
+SHA1-Digest: OulNptRJulVkJrSQQdIzFaaPoRE=
+
+Name: app/src/main/java/com/example/ui/components/ChatBubble.kt
+SHA1-Digest: MFvvxFi4HJ1AK0j4z5jNRltuQEo=
+
+Name: app/src/main/java/com/example/ui/components/GroupInfoSheet.kt
+SHA1-Digest: jjo1kQWXs1I5QaUg3g5nzKwwr/M=
+
+Name: app/src/main/java/com/example/ui/components/GroupInviteSheet.kt
+SHA1-Digest: xvLMGOd4cObsBnqnNpu0gM2TC/U=
+
+Name: app/src/main/java/com/example/ui/components/GroupJoinPreviewShee
+ t.kt
+SHA1-Digest: dvNfcdeDj5GtdUJOAGvSjOEsob4=
+
+Name: app/src/main/java/com/example/ui/components/MediaAttachmentSheet
+ .kt
+SHA1-Digest: lJKJOw8VH3IExFSvd/YwEPR2r3g=
+
+Name: app/src/main/java/com/example/ui/components/PhotoToStickerSheet.
+ kt
+SHA1-Digest: 3iuKJh4JdkQZ/6WSK0Etg/i1m74=
+
+Name: app/src/main/java/com/example/ui/components/PollCreatorDialog.kt
+SHA1-Digest: itcaYL0mywAjfOA11WXBXfLEk7U=
+
+Name: app/src/main/java/com/example/ui/components/StickerSheet.kt
+SHA1-Digest: L7GmwgOn4fk2Ezwufrrz+uGedLM=
+
+Name: app/src/main/java/com/example/ui/components/VoiceRecordingBar.kt
+SHA1-Digest: 3YQNpchfM3qaxrEd/jJSkfT/Dzw=
+
+Name: app/src/main/java/com/example/ui/screens/AuthScreen.kt
+SHA1-Digest: yIenS6GruRqleVrFfkT9Ljfb4R0=
+
+Name: app/src/main/java/com/example/ui/screens/CallsScreen.kt
+SHA1-Digest: 9FnzTQfBwZB6EchvTQD+LQDQCFM=
+
+Name: app/src/main/java/com/example/ui/screens/ChannelsScreen.kt
+SHA1-Digest: hRQwoSH81JF2Qd2mq2PfxlK4Ml0=
+
+Name: app/src/main/java/com/example/ui/screens/ChatDetailScreen.kt
+SHA1-Digest: g65mrQ6BvRFbJKZ224VLwhrIbDc=
+
+Name: app/src/main/java/com/example/ui/screens/ChatsListScreen.kt
+SHA1-Digest: tkv97kxPo6+AcnFSKitDjZd4n1g=
+
+Name: app/src/main/java/com/example/ui/screens/CommunitiesScreen.kt
+SHA1-Digest: cLylE4uuzGR1Bkug+xBg/frQiVQ=
+
+Name: app/src/main/java/com/example/ui/screens/ContactPickerScreen.kt
+SHA1-Digest: GgBLg0w8nGS6cWCY2eXGcjpMKrQ=
+
+Name: app/src/main/java/com/example/ui/screens/CreateGroupScreen.kt
+SHA1-Digest: 1wXwZuI7ZcajtNk43ckWQe9+Agc=
+
+Name: app/src/main/java/com/example/ui/screens/LinkedDevicesScreen.kt
+SHA1-Digest: hKLi/5QaolLsPWOcXJ0cCmTb8zk=
+
+Name: app/src/main/java/com/example/ui/screens/ProfileScreen.kt
+SHA1-Digest: o3xEF1a3TjOka4XkU15zYtvtpw8=
+
+Name: app/src/main/java/com/example/ui/screens/SettingsScreen.kt
+SHA1-Digest: ly0tlcCml4eTsCio9Loaax9u//8=
+
+Name: app/src/main/java/com/example/ui/screens/StatusScreen.kt
+SHA1-Digest: KGg4RN+UMn0aWy4sJI6moxm/3f0=
+
+Name: app/src/main/java/com/example/ui/screens/StickerStoreScreen.kt
+SHA1-Digest: 8+OmJPCzKu+LoVH+J+J2l1Bki68=
+
+Name: app/src/main/java/com/example/ui/theme/Color.kt
+SHA1-Digest: iBI4XYxGo+A8AEk63Ybeh5UpBOo=
+
+Name: app/src/main/java/com/example/ui/theme/Theme.kt
+SHA1-Digest: Ikcsvn0qCAIlmo/arD7zeCP1u6g=
+
+Name: app/src/main/java/com/example/ui/theme/Type.kt
+SHA1-Digest: mGthj+T6LedDdGaOWlj2TyQuQyM=
+
+Name: app/src/main/java/com/example/util/ApkExporter.kt
+SHA1-Digest: JTk3LuRf2+vKcXnAm9OpsOtsztw=
+
+Name: app/src/main/java/com/example/util/ImageCutoutProcessor.kt
+SHA1-Digest: lPEfJOEyaEqc1wMsgEvJg1fo90Q=
+
+Name: app/src/main/res/drawable/ic_launcher_background.xml
+SHA1-Digest: NBedkxOMFCXQgQ9BMqfsmMMlX8M=
+
+Name: app/src/main/res/drawable/ic_launcher_foreground.xml
+SHA1-Digest: QvwG81C51bhTKia+XGFynT4cA5U=
+
+Name: app/src/main/res/drawable/img_kalbarq_logo.png
+SHA1-Digest: Eg+IxlFlTGue6zqCtM5EqzlMX80=
+
+Name: app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: TjWupKLJeDZTzET2FEmaf1IYfP0=
+
+Name: app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA1-Digest: tamKsduE/NfF1U5KBJZVgROvJP4=
+
+Name: app/src/main/res/mipmap-hdpi/ic_launcher.png
+SHA1-Digest: kpFnbI1wKSZ09TvTlrmWFuZxi+0=
+
+Name: app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+SHA1-Digest: QkQjKCdMotsU8pSnir9xFnhUKkw=
+
+Name: app/src/main/res/mipmap-mdpi/ic_launcher.png
+SHA1-Digest: upWMW63seMpBg5/pYZIXPPG1mxU=
+
+Name: app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+SHA1-Digest: gnPu/OFZHDi+2XnXDYB6ScIUxHQ=
+
+Name: app/src/main/res/mipmap-xhdpi/ic_launcher.png
+SHA1-Digest: hO7YvGJIbrJKHRS7MxWpJoxeMbk=
+
+Name: app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+SHA1-Digest: gcm/xI+aS3CSs3vyvgDuraxmxHA=
+
+Name: app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+SHA1-Digest: 86eOUeH4EF0kNL1JEgk86OI9lJ0=
+
+Name: app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+SHA1-Digest: ZEK89kI8VzJ6xpm6ZbuyVb4kGKE=
+
+Name: app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+SHA1-Digest: 5EmI5nbqKXiAbU4o1hPypJAMixk=
+
+Name: app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+SHA1-Digest: AYRCEaVT35D/VxK3FqRZMyD+mJg=
+
+Name: app/src/main/res/values/colors.xml
+SHA1-Digest: h4YT0zMBqYYfFaK0NwoflP3y3Eg=
+
+Name: app/src/main/res/values/strings.xml
+SHA1-Digest: 9kNdG6vzUJMFnYGmMvavz9urcos=
+
+Name: app/src/main/res/values/themes.xml
+SHA1-Digest: Wn6SmSvh4npHcO/Ouv+u0TaQEqw=
+
+Name: app/src/main/res/xml/backup_rules.xml
+SHA1-Digest: qo8qxYQm30s52Dyr0atmXp0EmxA=
+
+Name: app/src/main/res/xml/data_extraction_rules.xml
+SHA1-Digest: L3jhFxj2NP5cdxUOrAO9Jtjhxi0=
+
+Name: app/src/main/res/xml/file_paths.xml
+SHA1-Digest: TvBabaMg0VovBbkaLoDQczB6kww=
+
+Name: app/src/test/java/com/example/ExampleRobolectricTest.kt
+SHA1-Digest: qu79RFOuoloWi6ppA/e5/apA7yU=
+
+Name: app/src/test/java/com/example/ExampleUnitTest.kt
+SHA1-Digest: O2/gTt2bhYuRqJnGcvJ7dM2vjC8=
+
+Name: build.gradle.kts
+SHA1-Digest: NTprnRclNkdNPoFzdhuKsBPXPJo=
+
+Name: gradle.properties
+SHA1-Digest: PfYQb7MQwcIMWOhSdMW9Si+EwoI=
+
+Name: gradle/libs.versions.toml
+SHA1-Digest: b6F+5bCRXudm+bUBENXYyt5hJWA=
+
+Name: gradle/wrapper/gradle-wrapper.properties
+SHA1-Digest: x/xpF0H+3TwtsXEIs7Eg15WC1Mo=
+
+Name: metadata.json
+SHA1-Digest: uaHAPzDSkE1Fd9OtOTCOmnXRDjE=
+
+Name: public/assets/aistudio/grok_1792951555877_6e132b88.jpg
+SHA1-Digest: CMlSGBBNEHR8X4yBbiA3qCulfCI=
+
+Name: settings.gradle.kts
+SHA1-Digest: hmeiAGkGqdwQDbrTYRD/WqhzPHM=
+

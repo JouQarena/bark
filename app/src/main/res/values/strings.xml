@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">كلبرق</string>
+    <string name="tagline">تواصل مشفر وسريع كالبرق</string>
+    <string name="encryption_notice">الرسائل والمكالمات مشفرة تماماً بين الطرفين. لا أحد خارج هذه المحادثة يستطيع قراءتها.</string>
+</resources>
